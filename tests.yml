@@ -7,7 +7,7 @@ on:
 
 jobs:
   install:
-    name: Test SearXNG install scripts 
+    name: Test SearXNG install scripts (lxc)
     runs-on: ubuntu-22.04
     steps:
     - name: configure network
